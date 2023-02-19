@@ -4,6 +4,16 @@
   }
 }
 
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+a:link {
+  color: white;
+}
+
+
 body {
   background-image: url(https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148917404.jpg);
   background-repeat: no-repeat;
@@ -69,7 +79,7 @@ nav > ul > li {
 }
 
 nav > ul > li:hover {
-  background-color: #dfdfe2;
+  background-color: #99999e;
   color: #1b1b32;
   cursor: pointer;
 }
